@@ -11,7 +11,7 @@ public class Main {
         num.doubleValue(); System.out.println("     sout сработал");// sout сработал
         num.doubleValue(); System.out.println("     sout молчит");// sout молчит
 
-        num.doubleValue(); System.out.println("     sout молчит");// 
+        num.doubleValue(); System.out.println("     sout молчит");//
 
         num.setNum(5);
         num.doubleValue(); System.out.println("     sout сработал");// sout сработал
