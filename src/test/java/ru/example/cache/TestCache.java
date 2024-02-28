@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 public class TestCache {
 
-    static class TestClock implements Clock  {
+    static class TestClock implements Clock {
         long time;
 
         public TestClock(long time)  {

@@ -1,6 +1,6 @@
 package ru.example.cache;
 
-public class TestClass implements TestInterface   {
+public class TestClass implements TestInterface {
 
     private int counter;
 
