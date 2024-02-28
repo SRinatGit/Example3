@@ -10,7 +10,7 @@ public class TestCache {
     static class TestClock implements Clock {
         long time;
 
-        public TestClock(long time) {
+        public TestClock(long time)  {
             this.time = time;
         }
 
